@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   name: codeflare-operator
 spec:
+  replicas: 1
   selector: {}
   strategy: {}
   template:
